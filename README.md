@@ -4,9 +4,9 @@
 
 💻 **Desenvolvedor Back-end em formação**, com interesse em desenvolvimento de sistemas, programação e dados.
 
-Atualmente estou desenvolvendo meus conhecimentos principalmente em **C#, Python, C, SQL e Git**, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
+Atualmente desenvolvo meus conhecimentos principalmente em **C#, Python, C, SQL e Git**, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
 
-## 🚀 Tecnologias e conhecimentos
+## 🚀 Tecnologias
 
 ### Linguagens
 - C#
@@ -21,7 +21,7 @@ Atualmente estou desenvolvendo meus conhecimentos principalmente em **C#, Python
 - Lógica de Programação
 - Estruturas de Dados
 - Desenvolvimento Back-end
-- Regras de negócio
+- Regras de Negócio
 - Git e GitHub
 
 ### Banco de Dados
@@ -29,40 +29,25 @@ Atualmente estou desenvolvendo meus conhecimentos principalmente em **C#, Python
 - SQL
 
 ### Dados
-- Análise e tratamento de dados
+- Análise e Tratamento de Dados
 - Excel
 - Power BI
 
-## 📌 Projetos em destaque
-
-### Sistema de Gestão Acadêmica
-
-Sistema desenvolvido para gerenciamento de informações acadêmicas, utilizando **Python e C**.
-
-Principais funcionalidades:
-- Cadastro e autenticação de usuários
-- Validação de dados
-- Persistência de informações
-- Aplicação de regras de negócio
-- Cálculo da situação acadêmica dos alunos
-- Manipulação de arquivos
-- Tratamento de exceções
+## 📌 Projetos
 
 ### S.A.G.O.
+Sistema web desenvolvido para gestão de um estúdio de Nail Designer, utilizando C#, MySQL, HTML, CSS e JavaScript.
 
-Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
-
-O projeto envolve desenvolvimento web, banco de dados e Back-end em **C#**, aplicando conceitos de Engenharia de Software, Programação Orientada a Objetos e desenvolvimento de sistemas.
+### Sistema de Gestão Acadêmica
+Sistema desenvolvido em Python e C para gerenciamento de alunos, notas, faltas e situação acadêmica, aplicando regras de negócio, validação de dados e manipulação de arquivos.
 
 ### Login em C
-
-Projeto desenvolvido em **C** para implementação de um sistema de login e recuperação de senha.
+Projeto desenvolvido em C para implementação de funcionalidades de autenticação de usuários.
 
 ## 📚 Atualmente estudando
 
 - Desenvolvimento Back-end
 - C#
-- .NET
 - Banco de Dados
 - Estruturas de Dados
 - Engenharia de Software
