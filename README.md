@@ -74,4 +74,4 @@ Projeto desenvolvido em **C** para implementação de um sistema de login e recu
 
 ---
 
-⭐ Estou construindo meu portfólio e evoluindo continuamente como desenvolvedor.## Hi there 👋
+⭐ Estou construindo meu portfólio e evoluindo continuamente como desenvolvedor.
