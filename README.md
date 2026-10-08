@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIP.
 
-💻 **Desenvolvedor Back-end em formação**, com interesse em desenvolvimento de sistemas, programação e dados.
+💻 Desenvolvedor Back-end em formação, focado no desenvolvimento de sistemas e em constante evolução técnica.
 
 Atualmente desenvolvo meus conhecimentos principalmente em **C#, Python, C, SQL e Git**, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
 
@@ -55,8 +55,8 @@ Projeto desenvolvido em C para implementação de funcionalidades de autenticaç
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/nycollas-silva-adriano)
-
+- [LinkedIn](https://linkedin.com/in/nycollas-silva-adriano)
+- Email: nycollassilvaadriano435@gmail.com
 ---
 
 ⭐ Estou construindo meu portfólio e evoluindo continuamente como desenvolvedor.
